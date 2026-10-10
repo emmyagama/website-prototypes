@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Valley of Berachah Optics eye mark</title>
+  <defs>
+    <linearGradient id="bg" x1="9" y1="6" x2="56" y2="60" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7C42B5"/>
+      <stop offset="1" stop-color="#4E207F"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="20" fill="url(#bg)"/>
+  <path d="M8.5 32c5.8-9 13.8-13.5 23.5-13.5S49.7 23 55.5 32C49.7 41 41.7 45.5 32 45.5S14.3 41 8.5 32Z" fill="none" stroke="#fff" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="32" cy="32" r="7.2" fill="none" stroke="#fff" stroke-width="3.2"/>
+  <circle cx="32" cy="32" r="2.1" fill="#E9D5FF"/>
+</svg>
