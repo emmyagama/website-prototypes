@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Urban Sight eye mark</title>
+  <defs>
+    <linearGradient id="lens" x1="8" y1="9" x2="57" y2="58" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3876B4"/>
+      <stop offset="1" stop-color="#173C63"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="19" fill="url(#lens)"/>
+  <path d="M7.5 32c6-9.2 14.1-13.8 24.5-13.8S50.5 22.8 56.5 32C50.5 41.2 42.4 45.8 32 45.8S13.5 41.2 7.5 32Z" fill="none" stroke="#fff" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="32" cy="32" r="7.2" fill="none" stroke="#fff" stroke-width="3.2"/>
+  <circle cx="32" cy="32" r="2.2" fill="#E97878"/>
+</svg>
